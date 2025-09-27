@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Garcia</h1>
-<h3 align="center">🎓 Epitech Student | System Developer</h3>
+<h3 align="center">🎓 Epitech Student | System Developer <a href="https://bento.me/paul-garcia"></h3>
 
 <p align="center">
   🔧 <strong>C++ | Python | Haskell | C | JavaScript | TypeScript</strong><br>
