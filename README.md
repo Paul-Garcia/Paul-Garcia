@@ -64,32 +64,3 @@ Python-based social network analysis with graph theory algorithms.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### **Specializations**
-- **Embedded Systems**: Real-time programming, optimization
-- **System Programming**: Multithreading, IPC, process management
-- **Algorithms**: Data structures, optimization techniques
-- **Cryptography**: Security implementations, encryption
-- **DevOps**: CI/CD, containerization, automation
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Garcia&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
----
-
-## 🎯 Career Focus
-
-**🎓 Epitech Student** pursuing embedded systems and aerospace development  
-**🚁 Passionate** about contributing to aviation technology  
-**⚡ Specialized** in performance-critical and safety-critical systems
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paul-Garcia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
