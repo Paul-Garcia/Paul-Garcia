@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Paul_Garcia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://bento.me/paul-garcia">
-    <img src="https://storage.googleapis.com/creatorspace-public/users%2Fcle5peoav000bo20yzrr8ycw2%2FFtxfXLVWI4UBHGdj-avatar.png" alt="Bento.me"/>
+    <img src="https://storage.googleapis.com/creatorspace-public/users%2Fcle5peoav000bo20yzrr8ycw2%2FFtxfXLVWI4UBHGdj-avatar.png?style=flat-square&logo=Bento.me" alt="Bento.me"/>
   </a>
 </p>
 
