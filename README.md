@@ -2,13 +2,13 @@
 <h3 align="center">Software Engineer · QA Automation · DevOps / CI-CD</h3>
 
 <p align="center">
-  EPITECH Master's-level engineer (RNCP 7) · ex-Siemens Industry Software · 🇫🇷 Native · 🇬🇧 C1 · 🇨🇳 HSK 3<br/>
+  EPITECH Master's-level engineer (RNCP 7) · Software Engineer @ Abylsen (Siemens Industry Software) · 🇫🇷 Native · 🇬🇧 C1 · 🇨🇳 HSK 2<br/>
   <b>Open to V.I.E / international roles — Asia, Europe, Americas</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/paul-garcia-606b73233"><img src="https://img.shields.io/badge/LinkedIn-Paul_Garcia-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:paul.garcia@epitech.eu"><img src="https://img.shields.io/badge/Email-paul.garcia@epitech.eu-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:garcia.paul.dev@gmail.com"><img src="https://img.shields.io/badge/Email-garcia.paul.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://bento.me/paul-garcia"><img src="https://img.shields.io/badge/Portfolio-bento.me-111111?style=flat-square" alt="Portfolio"/></a>
 </p>
 
@@ -17,7 +17,7 @@
 ### 👋 About me
 
 - 🧪 I make software **reliable**: unit / integration / E2E testing, CI/CD pipelines, release quality.
-- 🏭 Last role: **DevOps & QA engineering intern at Siemens Industry Software** (Paris, 2026) — .NET / C# production app, xUnit, GitLab CI, Jenkins, GitHub Actions, Azure DevOps, fully international team.
+- 🏭 Currently: **Software Engineer at Abylsen**, on assignment at **Siemens Industry Software** (since Nov 2026), after my DevOps & QA final-year internship there (2026) — .NET / C# production app, xUnit, GitLab CI, Jenkins, GitHub Actions, Azure DevOps, fully international team.
 - 🧱 Before that: full-stack (NestJS, Next.js, Angular, React) at Map Emulsion and Select Service Partner, Python automation at Rothschild & Co.
 - 🌏 Studied a year at **Beijing Jiaotong University** — comfortable working across cultures and time zones.
 - 🎯 Looking for: **QA Automation / DevOps / Software Engineer** roles abroad, ideally as a V.I.E.
